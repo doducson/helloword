@@ -9,3 +9,6 @@ print(result)  # Kết quả sẽ cho bạn biết cảm xúc của câu
 
 # thêm mới cho oách
 
+# thêm cái nữa xem sao
+
+
